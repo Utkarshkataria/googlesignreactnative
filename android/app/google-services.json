@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "371035570742",
+    "firebase_url": "https://reacttest-b8fc6.firebaseio.com",
+    "project_id": "reacttest-b8fc6",
+    "storage_bucket": "reacttest-b8fc6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371035570742:android:453044df92eb54d9",
+        "android_client_info": {
+          "package_name": "com.goolesignin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "371035570742-rqlnfpbnsqrg9jk2ch3oujdnmjje975v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK8kd3wLr1jnJAYa64mrzmjvoKsLU36mQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
